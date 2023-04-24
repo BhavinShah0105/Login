@@ -1,0 +1,43 @@
+/* -------------------------------------- Login Css ----------------------------------------------------------- */
+.container{
+  height: auto;
+  width: auto;
+  padding-left: 0%;
+  padding-right: 0%;
+  margin: 10%;
+  display: flex;
+  box-shadow: 0px 0px 3px 3px grey;
+}
+.Login_container{
+   text-align: center;
+   width: 100%;
+   padding: 5%;
+}
+.btn{
+  width:100%;
+  background:dodgerblue;
+  color: white;
+  border: 1px;
+}
+.btn1{
+  background:dodgerblue;
+  color: white;
+  border: 1px;
+}
+
+.signup_container{
+  background-color: lightblue;
+  text-align: center;
+  width: 100%;
+  padding:5%;
+}
+
+.text{
+  margin-top: 40%;
+}
+
+.btn2{
+  background:royalblue;
+  width:50%;
+  border-radius: 20px;
+}
